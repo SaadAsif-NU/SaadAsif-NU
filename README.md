@@ -8,22 +8,32 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/saadasif-nu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:saadasif7a@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Lahore,%20Pakistan-111827?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="Location"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=saadasif7a@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/SaadAsif-NU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=SaadAsif-NU&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <sub>📫 &nbsp;<a href="mailto:saadasif7a@gmail.com"><b>saadasif7a@gmail.com</b></a> &nbsp;&nbsp;·&nbsp;&nbsp; 📍 &nbsp;Lahore, Pakistan &nbsp;&nbsp;·&nbsp;&nbsp; 💼 &nbsp;Open to opportunities</sub>
 </div>
 
 ---
 
 ## 👋 About Me
 
-AI/ML Engineer with **2+ years** architecting and delivering production Generative AI systems: LLM-powered applications, multi-agent orchestration pipelines, and RAG knowledge platforms. I care about what is under the hood, so I build the internals (vector indexes, agent engines, LLM gateways) from scratch rather than wrapping an SDK.
+AI/ML Engineer architecting and delivering production Generative AI systems: LLM-powered applications, multi-agent orchestration pipelines, and RAG knowledge platforms. I care about what is under the hood, so I build the internals (vector indexes, agent engines, LLM gateways) from scratch rather than wrapping an SDK.
 
 - 🔭 &nbsp; Associate AI/ML Engineer at **Devsinc**, building multi-tenant GenAI platforms on FastAPI, LangGraph, and AWS.
 - 🧠 &nbsp; Focus: RAG, multi-agent systems, MCP servers, vector search, and LLM infrastructure.
-- 🧩 &nbsp; Previously designed 1,000+ advanced engineering problems and 200+ reference solutions that trained frontier LLMs at **Datacurve (Shipd.ai)**.
+- 🧩 &nbsp; Designed 1,000+ advanced engineering problems and 200+ reference solutions that trained frontier LLMs at **Datacurve (Shipd.ai)**.
 - 🎓 &nbsp; BS Computer Science, FAST-NUCES &nbsp;·&nbsp; Microsoft Certified: Azure Administrator Associate.
 - ⚡ &nbsp; I turn "I used the API" into "I built the system around it."
+
+## ⚙️ How I Build
+
+- 🧱 &nbsp; **From first principles.** I implement the core (graph indexes, agent engines, gateways), not just the glue code.
+- 🧪 &nbsp; **Tested and typed.** Real test suites, static typing, and CI on every project.
+- 🚀 &nbsp; **Production-minded.** Observability, reliability, and cost awareness are in from day one.
 
 ---
 
@@ -49,18 +59,24 @@ AI/ML Engineer with **2+ years** architecting and delivering production Generati
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Generative AI & ML**
+**Generative AI & Machine Learning**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3168F5?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge)
 
@@ -71,14 +87,20 @@ AI/ML Engineer with **2+ years** architecting and delivering production Generati
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 
-**Data & Vector Stores**
+**Databases & Vector Stores**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-111827?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FCA5A5?style=for-the-badge&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
 
 **Cloud & DevOps**
@@ -86,12 +108,20 @@ AI/ML Engineer with **2+ years** architecting and delivering production Generati
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadAsif-NU&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=22d3ee&line=6366f1&point=a78bfa" width="100%" alt="Contribution graph"/>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SaadAsif-NU&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
@@ -103,7 +133,7 @@ AI/ML Engineer with **2+ years** architecting and delivering production Generati
 
 ### Let's build something intelligent together.
 
-<a href="https://linkedin.com/in/saadasif-nu">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:saadasif7a@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/SaadAsif-NU">GitHub</a>
+<a href="https://linkedin.com/in/saadasif-nu"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="mailto:saadasif7a@gmail.com"><b>saadasif7a@gmail.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/SaadAsif-NU"><b>GitHub</b></a>
 
 </div>
 
