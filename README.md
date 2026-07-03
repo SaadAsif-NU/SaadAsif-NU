@@ -120,7 +120,11 @@ AI/ML Engineer architecting and delivering production Generative AI systems: LLM
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadAsif-NU&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=22d3ee&line=6366f1&point=a78bfa" width="100%" alt="Contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaadAsif-NU/SaadAsif-NU/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaadAsif-NU/SaadAsif-NU/output/github-snake.svg" />
+    <img alt="A snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SaadAsif-NU/SaadAsif-NU/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
