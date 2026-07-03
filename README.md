@@ -31,14 +31,6 @@ AI/ML Engineer with **2+ years** architecting and delivering production Generati
 
 > Not tutorials, not wrappers. Each of these is a complete system built from scratch, with a real test suite, CI across Python 3.10 to 3.13, Docker, and architecture docs.
 
-<div align="center">
-  <a href="https://github.com/SaadAsif-NU/maestro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAsif-NU&repo=maestro&theme=tokyonight&hide_border=true&border_radius=10" alt="maestro"/></a>
-  <a href="https://github.com/SaadAsif-NU/quiver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAsif-NU&repo=quiver&theme=tokyonight&hide_border=true&border_radius=10" alt="quiver"/></a>
-</div>
-<div align="center">
-  <a href="https://github.com/SaadAsif-NU/conduit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAsif-NU&repo=conduit&theme=tokyonight&hide_border=true&border_radius=10" alt="conduit"/></a>
-</div>
-
 | Project | What it is | What it proves |
 |:---|:---|:---|
 | [**maestro**](https://github.com/SaadAsif-NU/maestro) | A live multi-agent orchestration studio: give it a goal and watch a team of AI agents plan, research, critique, and deliver in real time, rendered as an animated mission-control dashboard. | Multi-agent systems, async and real-time architecture, and a polished product frontend. |
@@ -99,19 +91,10 @@ AI/ML Engineer with **2+ years** architecting and delivering production Generati
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadAsif-NU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAsif-NU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaadAsif-NU&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaadAsif-NU&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=SaadAsif-NU&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
 </div>
 
 ---
