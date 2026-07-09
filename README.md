@@ -23,7 +23,7 @@
 
 AI/ML Engineer architecting and delivering production Generative AI systems: LLM-powered applications, multi-agent orchestration pipelines, and RAG knowledge platforms. I care about what is under the hood, so I build the internals (vector indexes, agent engines, LLM gateways) from scratch rather than wrapping an SDK.
 
-- 🔭 &nbsp; Associate AI/ML Engineer at **Devsinc**, building multi-tenant GenAI platforms on FastAPI, LangGraph, and AWS.
+- 🔭 &nbsp; Associate AI/ML Engineer, building multi-tenant GenAI platforms on FastAPI, LangGraph, and AWS.
 - 🧠 &nbsp; Focus: RAG, multi-agent systems, MCP servers, vector search, and LLM infrastructure.
 - 🧩 &nbsp; Designed 1,000+ advanced engineering problems and 200+ reference solutions that trained frontier LLMs at **Datacurve (Shipd.ai)**.
 - 🎓 &nbsp; BS Computer Science, FAST-NUCES &nbsp;·&nbsp; Microsoft Certified: Azure Administrator Associate.
