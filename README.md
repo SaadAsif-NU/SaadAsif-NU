@@ -19,6 +19,26 @@
 
 ---
 
+## 🚀 Featured Work
+
+> Not tutorials, not wrappers. Each of these is a complete system built from scratch, with a real test suite, CI on every push, and architecture docs. Click in and read the code.
+
+| Project | What it is | What it proves |
+|:---|:---|:---|
+| [**aurora**](https://github.com/SaadAsif-NU/aurora) | An AI data studio. Drop a CSV, ask in plain English, and a dashboard builds itself. The model only *plans* the analysis; a deterministic engine computes every number, so a chart can never be a hallucination. | Full-stack product sense: Next.js and TypeScript, a designer-grade animated UI, and an AI architecture you can trust. |
+| [**maestro**](https://github.com/SaadAsif-NU/maestro) | A live multi-agent orchestration studio: give it a goal and watch a team of AI agents plan, research, critique, and deliver in real time, rendered as an animated mission-control dashboard. | Multi-agent systems, async and real-time architecture, and a polished product frontend. |
+| [**cairn**](https://github.com/SaadAsif-NU/cairn) | A GraphRAG knowledge engine: documents in, a knowledge graph out, then hybrid graph and vector retrieval that answers with a reasoning path you can watch light up in the browser. | Knowledge graphs and retrieval, with PageRank, shortest-path and community detection written by hand. |
+| [**prism**](https://github.com/SaadAsif-NU/prism) | A columnar SQL query engine: a hand-written lexer, parser, binder, rule-based optimizer, and vectorized executor, with a browser playground that shows the plan before and after optimization. | Database internals: how a query actually becomes an answer. |
+| [**loom**](https://github.com/SaadAsif-NU/loom) | A small language model built from nothing: reverse-mode autodiff, a byte-level BPE tokenizer, and a GPT-style transformer, plus a live training dashboard. | The maths under the models: backprop, attention, and optimization from first principles. |
+| [**quiver**](https://github.com/SaadAsif-NU/quiver) | An embeddable vector search engine: a from-scratch HNSW graph index with hybrid BM25 and dense retrieval, in pure Python, no external services. | I understand what vector databases actually do, not just how to call one. |
+| [**conduit**](https://github.com/SaadAsif-NU/conduit) | A self-hostable, OpenAI-compatible LLM gateway: routing, retries, provider fallback, rate limiting, semantic caching, and cost tracking. | Production LLM infrastructure and backend reliability engineering. |
+
+<div align="center">
+  <sub>More on my GitHub: <a href="https://github.com/SaadAsif-NU/DeepPhish">DeepPhish</a> (phishing detection), <a href="https://github.com/SaadAsif-NU/Insectigators">Insectigators</a> (image classification), and systems / full-stack projects.</sub>
+</div>
+
+---
+
 ## 👋 About Me
 
 AI/ML Engineer architecting and delivering production Generative AI systems: LLM-powered applications, multi-agent orchestration pipelines, and RAG knowledge platforms. I care about what is under the hood, so I build the internals (vector indexes, agent engines, LLM gateways) from scratch rather than wrapping an SDK.
@@ -34,22 +54,6 @@ AI/ML Engineer architecting and delivering production Generative AI systems: LLM
 - 🧱 &nbsp; **From first principles.** I implement the core (graph indexes, agent engines, gateways), not just the glue code.
 - 🧪 &nbsp; **Tested and typed.** Real test suites, static typing, and CI on every project.
 - 🚀 &nbsp; **Production-minded.** Observability, reliability, and cost awareness are in from day one.
-
----
-
-## 🚀 Featured Work
-
-> Not tutorials, not wrappers. Each of these is a complete system built from scratch, with a real test suite, CI across Python 3.10 to 3.13, Docker, and architecture docs.
-
-| Project | What it is | What it proves |
-|:---|:---|:---|
-| [**maestro**](https://github.com/SaadAsif-NU/maestro) | A live multi-agent orchestration studio: give it a goal and watch a team of AI agents plan, research, critique, and deliver in real time, rendered as an animated mission-control dashboard. | Multi-agent systems, async and real-time architecture, and a polished product frontend. |
-| [**quiver**](https://github.com/SaadAsif-NU/quiver) | An embeddable vector search engine: a from-scratch HNSW graph index with hybrid BM25 and dense retrieval, in pure Python, no external services. | I understand what vector databases actually do, not just how to call one. |
-| [**conduit**](https://github.com/SaadAsif-NU/conduit) | A self-hostable, OpenAI-compatible LLM gateway: routing, retries, provider fallback, rate limiting, semantic caching, and cost tracking. | Production LLM infrastructure and backend reliability engineering. |
-
-<div align="center">
-  <sub>More on my GitHub: <a href="https://github.com/SaadAsif-NU/DeepPhish">DeepPhish</a> (phishing detection), <a href="https://github.com/SaadAsif-NU/Insectigators">Insectigators</a> (image classification), and systems / full-stack projects.</sub>
-</div>
 
 ---
 
