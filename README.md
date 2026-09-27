@@ -25,7 +25,7 @@ AI/ML Engineer architecting and delivering production Generative AI systems: LLM
 
 - 🔭 &nbsp; AI/ML Engineer, building multi-tenant GenAI platforms on FastAPI, LangGraph, and AWS.
 - 🧠 &nbsp; Focus: RAG, multi-agent systems, MCP servers, vector search, and LLM infrastructure.
-- 🧩 &nbsp; Reviewed 1,000+ advanced engineering problems and authored 250+ reference solutions that trained frontier LLMs at **Datacurve (Shipd.ai)**.
+- 🧩 &nbsp; Authored 250+ problems and reference solutions and reviewed 1,000+ contributor submissions as a platform reviewer at **Datacurve (Shipd.ai)**, producing training data for frontier LLMs.
 - 🎓 &nbsp; BS Computer Science, FAST-NUCES &nbsp;·&nbsp; Microsoft Certified: Azure Administrator Associate.
 - ⚡ &nbsp; I turn "I used the API" into "I built the system around it."
 
@@ -44,6 +44,7 @@ AI/ML Engineer architecting and delivering production Generative AI systems: LLM
 | [**loom**](https://github.com/SaadAsif-NU/loom) | A small language model built from nothing: reverse-mode autodiff, a byte-level BPE tokenizer, and a GPT-style transformer, plus a live training dashboard. | The maths under the models: backprop, attention, and optimization from first principles. |
 | [**quiver**](https://github.com/SaadAsif-NU/quiver) | An embeddable vector search engine: a from-scratch HNSW graph index with hybrid BM25 and dense retrieval, in pure Python, no external services. | I understand what vector databases actually do, not just how to call one. |
 | [**conduit**](https://github.com/SaadAsif-NU/conduit) | A self-hostable, OpenAI-compatible LLM gateway: routing, retries, provider fallback, rate limiting, semantic caching, and cost tracking. | Production LLM infrastructure and backend reliability engineering. |
+| [**pulse**](https://github.com/SaadAsif-NU/pulse) | An LLM observability and evaluation platform: a tracing SDK that stitches nested and async calls into a span tree with contextvars, a per-model cost engine, and a non-blocking batched exporter feeding a FastAPI and SQLite backend. | Observability, cost and evaluation built into the system from day one, not bolted on. |
 
 <div align="center">
   <sub>More on my GitHub: <a href="https://github.com/SaadAsif-NU/DeepPhish">DeepPhish</a> (phishing detection), <a href="https://github.com/SaadAsif-NU/Insectigators">Insectigators</a> (image classification), and systems / full-stack projects.</sub>
